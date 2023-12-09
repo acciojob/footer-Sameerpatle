@@ -22,10 +22,14 @@ h4{
 }
 .media-icons>.a{
 
-	margin-top:30px;
+	margin-top:40px;
 	margin-right:30px;
-	font-size:30px
+	font-size:0px
 	
+	
+}
+div.media-icon{
+	display:flex;
 	
 }
 div.link-boxes{
