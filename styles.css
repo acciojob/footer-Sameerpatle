@@ -27,8 +27,8 @@ div.media-icons{
 	
 }
 div.link-boxes{
+	display:block;
 	display:flex;
-	flex-wrap:wrap;
 	line-height:1.0;
 	padding:10px;
 	
